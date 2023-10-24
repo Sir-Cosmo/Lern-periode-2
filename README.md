@@ -17,8 +17,19 @@ Falls ich zwischendrin Probleme mit bestimmten Themen habe, setze ich das Projek
 
 ## Arbeitspakete für 24.10.2023
 
-- [ ] Das neue Projekt Starten und die Bascis Programmieren. (User Input, Output)
-- [ ] Ein Program welches Inputs von Usern entgegen nehmen kann und diese +/- rechnen kann.
-- [ ] Ein Program welchen einen Sitzsatz von 5% berechnen kann mit einer Belibigen Zahl.
+- [X] Das neue Projekt Starten und die Bascis Programmieren. (User Input, Output)
+- [X] Ein Program welches Inputs von Usern entgegen nehmen kann und diese +/- rechnen kann.
+- [X] Ein Program welchen einen Sitzsatz von 5% berechnen kann mit einer Belibigen Zahl.
   
+Heute war ein sehr erfolgreicher Tag. Ich habe alle Ziele, die ich wollte, erreicht und es hat sogar sehr viel Spass gemacht. Ich habe alle Arbeitspakete geschafft und sogar gelernt, wie man Funktionen in C# benutzt. Ich bin sehr zufrieden mit meiner Arbeitsgeschwindigkeit. Mir ist auch aufgefallen das ich noch schneller Arbeite, wenn ich Musik höre da ich dann weniger abgelenkt werde. (62 Wörter)  
 
+## Arbeitspakete für 31.10.2023
+
+- [ ] Lernen was "Berechnung der Rendite der Obligation über den Zeitraum der Anlagen" bedeutet 
+- [ ] Ein Program welches "Berechnung der Rendite der Obligation über den Zeitraum der Anlagen" kann.
+- [ ] Das Oben genante Programm in eine Funktion einbauen.
+- [ ] Lernen was eine GUI ist und wie man eine in C# macht + Modul Arbeit
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
+| ---- | ------- | ----------------- | ---- |
+| | ``  | ``      |  |
