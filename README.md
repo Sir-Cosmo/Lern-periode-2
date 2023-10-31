@@ -36,7 +36,7 @@ Heute war ein sehr erfolgreicher Tag. Ich habe alle Ziele, die ich wollte, errei
 
 Heute war ich relative erfolgreich, ich habe die ersten drei Arbeitspakete effizient abgearbeitet und dabei viel über Renditen und C# gelernt. Beim letzten Modul hatte ich grössere Probleme, weil ich noch nie mit WinForms so ein kompliziertes / grosses Projekt gemacht habe. Ich habe meine Theorie von letztem Mal bestätigen können, dass ich besser arbeite, wenn ich Musik höre. (58 Wörter) 
 
-## Arbeitspakete für 31.10.2023
+## Arbeitspakete für 07.11.2023
 
 - [ ] Für das neue Mittwochs-Modul vorarbeiten
 - [ ] Ein Programm in C# WinForms welches einen Knopf hat den man Clicken kann.
