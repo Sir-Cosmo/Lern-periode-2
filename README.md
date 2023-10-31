@@ -25,11 +25,23 @@ Heute war ein sehr erfolgreicher Tag. Ich habe alle Ziele, die ich wollte, errei
 
 ## Arbeitspakete für 31.10.2023
 
-- [ ] Lernen was "Berechnung der Rendite der Obligation über den Zeitraum der Anlagen" bedeutet 
-- [ ] Ein Program welches "Berechnung der Rendite der Obligation über den Zeitraum der Anlagen" kann.
-- [ ] Das Oben genante Programm in eine Funktion einbauen.
-- [ ] Lernen was eine GUI ist und wie man eine in C# macht + Modul Arbeit
+- [X] Lernen was "Berechnung der Rendite der Obligation über den Zeitraum der Anlagen" bedeutet 
+- [X] Ein Program welches "Berechnung der Rendite der Obligation über den Zeitraum der Anlagen" kann.
+- [X] Das Oben genante Programm in eine Funktion einbauen.
+- [50%] Lernen was eine GUI ist und wie man eine in C# macht + Modul Arbeit
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
 | ---- | ------- | ----------------- | ---- |
 | | ``  | ``      |  |
+
+Heute war ich relative erfolgreich, ich habe die ersten drei Arbeitspakete effizient abgearbeitet und dabei viel über Renditen und C# gelernt. Beim letzten Modul hatte ich grössere Probleme, weil ich noch nie mit WinForms so ein kompliziertes / grosses Projekt gemacht habe. Ich habe meine Theorie von letztem Mal bestätigen können, dass ich besser arbeite, wenn ich Musik höre. (58 Wörter) 
+
+## Arbeitspakete für 31.10.2023
+
+- [ ] Für das neue Mittwochs-Modul vorarbeiten
+- [ ] Ein Programm in C# WinForms welches einen Knopf hat den man Clicken kann.
+- [ ] Ein Programm in WinForms mit einem Feld für Outputs
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
+| ---- | ------- | ----------------- | ---- |
+| Programm in VS gestartet| Knopf auf dem GUI drücken  | Willkommen beim Zinsen rechner.     |  |
