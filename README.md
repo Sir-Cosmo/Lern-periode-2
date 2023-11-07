@@ -38,10 +38,12 @@ Heute war ich relative erfolgreich, ich habe die ersten drei Arbeitspakete effiz
 
 ## Arbeitspakete für 07.11.2023
 
-- [ ] Für das neue Mittwochs-Modul vorarbeiten
-- [ ] Ein Programm in C# WinForms welches einen Knopf hat den man Clicken kann.
-- [ ] Ein Programm in WinForms mit einem Feld für Outputs
+- [X] Für das neue Mittwochs-Modul vorarbeiten
+- [X] Ein Programm in C# WinForms welches einen Knopf hat den man Clicken kann.
+- [X] Ein Programm in WinForms mit einem Feld für Outputs
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
 | ---- | ------- | ----------------- | ---- |
-| Programm in VS gestartet| Knopf auf dem GUI drücken  | Willkommen beim Zinsen rechner.     |  |
+| Programm in VS gestartet| Knopf auf dem GUI drücken  | Willkommen beim Zinsen rechner.     | Nein |
+
+
