@@ -40,10 +40,21 @@ Heute war ich relative erfolgreich, ich habe die ersten drei Arbeitspakete effiz
 
 - [X] Für das neue Mittwochs-Modul vorarbeiten
 - [X] Ein Programm in C# WinForms welches einen Knopf hat den man Clicken kann.
-- [X] Ein Programm in WinForms mit einem Feld für Outputs
+- [ ] Ein Programm in WinForms mit einem Feld für Outputs
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
 | ---- | ------- | ----------------- | ---- |
 | Programm in VS gestartet| Knopf auf dem GUI drücken  | Willkommen beim Zinsen rechner.     | Nein |
 
+Heute bin ich relative weit gekommen ich hatte immer noch Probleme mit dem GUI habe aber guten Vortschritt in den Modulen gemacht. Ich habe mich auch entschieden das ich beim Projekt was wir für Miss Laube machen einen Fokus drauf zu legen da ich will das das Endprodukt echt Perfekt ist. Ich habe auch gemerkt das ich Zuhause fast besser arbeite als in der Schule da es weniger ablekung gibt. 
+
+## Arbeitspakete für 14.11.2023
+
+- [ ] Ein Programm welches einen Jass-Plan macht wo jedes Team gegen Jedes Team Spielt
+- [ ] Modul 162 weiterarbeiten.
+- [ ] Ein Programm welches nicht Crashed bei falschen eingaben egal bei welchem Schritt.
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
+| ---- | ------- | ----------------- | ---- |
+| Programm in VS gestartet| A | Das war eine Ungültige eingabe | |
 
