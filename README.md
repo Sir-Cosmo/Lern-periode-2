@@ -50,11 +50,19 @@ Heute bin ich relative weit gekommen ich hatte immer noch Probleme mit dem GUI h
 
 ## Arbeitspakete für 14.11.2023
 
-- [ ] Ein Programm welches einen Jass-Plan macht wo jedes Team gegen Jedes Team Spielt
-- [ ] Modul 162 weiterarbeiten.
-- [ ] Ein Programm welches nicht Crashed bei falschen eingaben egal bei welchem Schritt.
+- [X] Ein Programm welches einen Jass-Plan macht wo jedes Team gegen Jedes Team Spielt
+- [X] Modul 162 weiterarbeiten.
+- [X] Ein Programm welches nicht Crashed bei falschen eingaben egal bei welchem Schritt.
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
 | ---- | ------- | ----------------- | ---- |
-| Programm in VS gestartet| A | Das war eine Ungültige eingabe | |
+| Programm in VS gestartet| A | Das war eine Ungültige eingabe |X|
+
+Heute war ich sehr erfolgreich. Ich habe alle meine Ziele schnell erreicht und schon einwenig mehr geschaft. Ich habe dank dem Input viel über WinForms bekommen und werde in der Zukunft defenitiv mehr probieren mit WinForms zu Arbeiten. Mir ist aber auch aufgefallen das ich besser Arbeite wenn ich Zuhause bin da mir die extra Stunde an schlaf extrem Hilft. 
+
+## Arbeitspakete für 21.11.2023
+
+- [ ] Ein Programm welches einen Jass-Plan macht wo jedes Team gegen Jedes Team Spielt und man Punkte eintragen kann für jedes Team.
+- [ ] Ein Programm welches eine Tabelle machet wo jedes Team nach Punkte Sortiert ist.
+- [ ] Ein Programm welches nach jeder Runde nach den Punkten von den Teams fragt.
 
