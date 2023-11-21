@@ -1,0 +1,14 @@
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\bin\Debug\net6.0\Jass-Spielplan.exe
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\bin\Debug\net6.0\Jass-Spielplan.deps.json
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\bin\Debug\net6.0\Jass-Spielplan.runtimeconfig.json
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\bin\Debug\net6.0\Jass-Spielplan.dll
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\bin\Debug\net6.0\Jass-Spielplan.pdb
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.AssemblyInfoInputs.cache
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.AssemblyInfo.cs
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.csproj.CoreCompileInputs.cache
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.dll
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\obj\Debug\net6.0\refint\Jass-Spielplan.dll
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.pdb
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.genruntimeconfig.cache
+C:\Users\0toma\source\repos\Lern-periode-2-main\Lern-periode-2-main\Jass-Spielplan\obj\Debug\net6.0\ref\Jass-Spielplan.dll
