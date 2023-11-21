@@ -62,7 +62,14 @@ Heute war ich sehr erfolgreich. Ich habe alle meine Ziele schnell erreicht und s
 
 ## Arbeitspakete für 21.11.2023
 
-- [ ] Ein Programm welches einen Jass-Plan macht wo jedes Team gegen Jedes Team Spielt und man Punkte eintragen kann für jedes Team.
-- [ ] Ein Programm welches eine Tabelle machet wo jedes Team nach Punkte Sortiert ist.
-- [ ] Ein Programm welches nach jeder Runde nach den Punkten von den Teams fragt.
+- [X] Ein Programm welches einen Jass-Plan macht wo jedes Team gegen Jedes Team Spielt und man Punkte eintragen kann für jedes Team.
+- [X] Ein Programm welches eine Tabelle machet wo jedes Team nach Punkte Sortiert ist.
+- [X] Ein Programm welches nach jeder Runde nach den Punkten von den Teams fragt.
 
+Heute bin ich extrem zufrieden mit meiner Arbeit. Ich habe alle meine Ziele geschafft und das ohne ChatGPT worauf ich extrem stolz bin. Ich habe auch gemerkt das mir dieser Typ von Unterricht extrem gut gefällt, da die extra Stunde an schlaf, einen Riesen unterschied, macht. Ich hoffe das wir in der Zukunft dies öfter machen. (56 Wörter)
+
+## Arbeitspakete für 21.11.2023
+
+- [ ] Lernen was HTML ist.
+- [ ] Eine Website mit HTML ohne irgenwelche Funktionen
+- [ ] Eine Website mit HTML mit einer Box in die man reinschreiben kann.
