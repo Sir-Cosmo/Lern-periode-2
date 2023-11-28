@@ -80,6 +80,6 @@ Ich musste leider meine HTML-Ziele zur Seite schieben, da ich noch an dem Modul 
 
 - [ ] Eine Programm mit HTML mit einer Box in die man reinschreiben kann.
 - [ ] Abschluss Programmiren von dem Montags-Projekt
-- [ ] Abschluss Programmiren von dem Montags-Projekt
+- [ ] Abschluss Programmiren von dem Montags-Projekt 
 
       
