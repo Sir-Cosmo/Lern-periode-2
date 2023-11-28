@@ -68,8 +68,18 @@ Heute war ich sehr erfolgreich. Ich habe alle meine Ziele schnell erreicht und s
 
 Heute bin ich extrem zufrieden mit meiner Arbeit. Ich habe alle meine Ziele geschafft und das ohne ChatGPT worauf ich extrem stolz bin. Ich habe auch gemerkt das mir dieser Typ von Unterricht extrem gut gefällt, da die extra Stunde an schlaf, einen Riesen unterschied, macht. Ich hoffe das wir in der Zukunft dies öfter machen. (56 Wörter)
 
-## Arbeitspakete für 21.11.2023
+## Arbeitspakete für 28.11.2023
 
-- [ ] Lernen was HTML ist.
-- [ ] Eine Website mit HTML ohne irgenwelche Funktionen
+- [X] Lernen was HTML ist.
+- [X] Eine Website mit HTML ohne irgenwelche Funktionen
 - [ ] Eine Website mit HTML mit einer Box in die man reinschreiben kann.
+
+Ich musste leider meine HTML-Ziele zur Seite schieben, da ich noch an dem Modul 162 und an meinem Programmierprojekt gearbeitet habe, damit ich da Fortschritt machen konnte. Ich kann mich nur wiederholen, dass die Extrastunde Schlaf einen riesigen Unterschied macht. Ich muss aber sagen, dass ich über alles zusammen sehr zufrieden bin mit meiner Arbeit heute. (57 Wörter)
+
+# Arbeitspakete für 05.11.2023
+
+- [ ] Eine Programm mit HTML mit einer Box in die man reinschreiben kann.
+- [ ] Abschluss Programmiren von dem Montags-Projekt
+- [ ] Abschluss Programmiren von dem Montags-Projekt
+
+      
