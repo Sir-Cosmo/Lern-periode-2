@@ -82,4 +82,10 @@ Ich musste leider meine HTML-Ziele zur Seite schieben, da ich noch an dem Modul 
 - [ ] Abschluss Programmiren von dem Montags-Projekt
 - [ ] Abschluss Programmiren von dem Montags-Projekt 
 
-      
+Heute habe ich genau das gegen Teil von meinen Arbeitspaketen gemacht, aber mega Fortschritt mit dem AOC gemacht. Ich hatte auch das Montags-Projekt und die HTML-Sache in meiner Freizeit gemacht. Ich hatte mega viel Spass mit AOC und werde es definitiv weitermachen bis zu den Ferien. Ich freue mich auch auf OLP nächste Woche. (56 Wörter)
+
+# Arbeitspakete für 12.11.2023
+
+- [ ] AOC.
+- [ ] AOC.
+- [ ] AOC.
