@@ -86,6 +86,14 @@ Heute habe ich genau das gegen Teil von meinen Arbeitspaketen gemacht, aber mega
 
 # Arbeitspakete für 12.11.2023
 
+- [X] AOC.
+- [X] AOC.
+- [X] AOC.
+
+Heute habe ich weiter am AOC programmiert, was sehr viel Spass gemacht hat. Ich bin aber leider ein wenig krank, weswegen ich nur Teil 2 vom Tag 1 Fertig gemacht habe und Tag 2 angeschaut habe. Ich bin sehr dankbar, dass wir OPL* gemacht haben, weil ich mich dadurch besser ausruhen konnte. (52 Wörter)
+
+# Arbeitspakete für 19.11.2023
+
 - [ ] AOC.
 - [ ] AOC.
 - [ ] AOC.
