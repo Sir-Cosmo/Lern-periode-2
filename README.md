@@ -94,6 +94,15 @@ Heute habe ich weiter am AOC programmiert, was sehr viel Spass gemacht hat. Ich 
 
 # Arbeitspakete für 19.11.2023
 
-- [ ] AOC.
-- [ ] AOC.
-- [ ] AOC.
+- [X] AOC.
+- [X] AOC.
+- [X] AOC.
+
+Heute bin ich ein wenig erschrocken beim Aufwachen, da ich 100 % überzeugt gewesen bin, dass wir DSL haben und somit auch später am Nachmittag die Stunde, die ich extra geschlafen habe, nachzuholen. Trotzdem habe ich mich so schnell wie möglich vor den PC gebracht und angefangen zu arbeiten. Ich habe am AOC weiter gemacht und die Reflexion gemacht. (58 Wörter)
+
+
+
+
+## Reflexion
+In dieser Lernperiode habe ich, glaube ich, den grössten Fortschritt gemacht, mit meinem logischen Denken und meinem Programmierwissen. Ich kann auch nur meine alte These bestätigen, dass, wenn ich von zu Hause arbeite, vor allem Dingen in OPL* oder DLS ich am meisten motiviert bin und am meisten lerne/arbeite. Ich habe auch sehr coole Projekte gemacht und hatte auch mega Spass am AOC. Mein Ziel ist es, dass ich im nächsten Jahr/Lernperiode mehr kleine Projekte mache wie am AOC, sodass ich spezifisch Sachen lerne. Ich will auch definitiv nochmal eine Website mit HTML machen wie Jass.Aggett.Com da mir das sehr viel Spass gemacht hat und man seine Arbeit gut anderen Personen zeigen konnte. (Wörter 117)
+
