@@ -1,4 +1,4 @@
-# Grob-Planung.
+# Grob-Planung
 
 Tom Aggett
 
